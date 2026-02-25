@@ -6,6 +6,5 @@
     "name": "WorkBuddy Team"
   },
   "skills": "./skills/",
-  "commands": "./commands/",
-  "agents": "./agents/"
+  "commands": "./commands/"
 }
