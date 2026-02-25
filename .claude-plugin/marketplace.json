@@ -1,11 +1,14 @@
 {
   "name": "wb-tools",
   "description": "WorkBuddy shared development tools marketplace",
+  "owner": {
+    "name": "hoangdinhcong"
+  },
   "plugins": [
     {
       "name": "wb",
       "description": "WorkBuddy development toolkit for the JMS platform",
-      "path": ".",
+      "source": ".",
       "category": "development",
       "tags": ["angular", "cqrs", "entity-framework", "jms"]
     }
