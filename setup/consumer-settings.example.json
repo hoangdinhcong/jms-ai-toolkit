@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": [
+    "workbuddy/ai-toolkit"
+  ],
+  "enabledPlugins": [
+    "wb@wb-tools"
+  ]
+}

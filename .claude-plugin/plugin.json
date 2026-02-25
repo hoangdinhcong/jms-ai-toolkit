@@ -1,0 +1,9 @@
+{
+  "name": "wb",
+  "version": "1.0.0",
+  "description": "WorkBuddy development toolkit - skills, commands, and agents for the JMS platform",
+  "author": "WorkBuddy Team",
+  "skills": "skills/",
+  "commands": "commands/",
+  "agents": "agents/"
+}
