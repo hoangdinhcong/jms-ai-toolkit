@@ -1,5 +1,5 @@
 {
-  "name": "ai-toolkit",
+  "name": "workbuddy-ai-toolkit",
   "description": "WorkBuddy shared development tools marketplace",
   "owner": {
     "name": "hoangdinhcong"
@@ -7,13 +7,13 @@
   "plugins": [
     {
       "name": "wb",
-      "description": "WorkBuddy development toolkit for the JMS platform",
+      "description": "WorkBuddy development toolkit",
       "source": {
         "source": "url",
         "url": "https://github.com/hoangdinhcong/ai-toolkit.git"
       },
       "category": "development",
-      "tags": ["angular", "cqrs", "entity-framework", "jms"]
+      "tags": ["angular", "cqrs", "entity-framework"]
     }
   ]
 }
